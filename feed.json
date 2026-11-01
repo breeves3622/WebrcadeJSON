@@ -129810,7 +129810,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2F18%2520Wheeler%2520-%2520American%2520Pro%2520Trucker%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2F18%2520Wheeler%2520(Japanese).cht",
-            "uid": "18-wheeler-american-pro-trucker"
+            "uid": "18-wheeler-american-pro-trucker",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792830
         },
@@ -129826,7 +129830,11 @@
             "discs": [
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FBangai-O%2520(USA).chd"
             ],
-            "uid": "bangai-o"
+            "uid": "bangai-o",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792849
         },
@@ -129843,7 +129851,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FCapcom%2520vs.%2520SNK%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FCapcom%2520Vs.%2520SNK%2520(Japanese).cht",
-            "uid": "capcom-vs-snk"
+            "uid": "capcom-vs-snk",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792867
         },
@@ -129860,7 +129872,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FCapcom%2520vs.%2520SNK%25202%2520-%2520Millionaire%2520Fighting%25202001%2520(Japan).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FCapcom%2520Vs.%2520SNK%2520(Japanese).cht",
-            "uid": "capcom-vs-snk-2-millionaire-fighting-2001"
+            "uid": "capcom-vs-snk-2-millionaire-fighting-2001",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792885
         },
@@ -129877,7 +129893,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FChuChu%2520Rocket!%2520(USA)%2520(En%252CJa%252CFr%252CDe%252CEs).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FChu%2520Chu%2520Rocket.cht",
-            "uid": "chuchu-rocket"
+            "uid": "chuchu-rocket",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792901
         },
@@ -129894,7 +129914,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FCrazy%2520Taxi%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FCrazy%2520Taxi.cht",
-            "uid": "crazy-taxi"
+            "uid": "crazy-taxi",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792931
         },
@@ -129911,7 +129935,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FCrazy%2520Taxi%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FCrazy%2520Taxi%25202%2520-%2520Crazy%2520Taxi%25202%2520(Japanese).cht",
-            "uid": "crazy-taxi-2"
+            "uid": "crazy-taxi-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792946
         },
@@ -129928,7 +129956,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FDaytona%2520USA%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FDaytona%2520USA.cht",
-            "uid": "daytona-usa"
+            "uid": "daytona-usa",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792964
         },
@@ -129946,7 +129978,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FDead%2520or%2520Alive%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FDead%2520Or%2520Alive%25202.cht",
-            "uid": "dead-or-alive-2"
+            "uid": "dead-or-alive-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557792993
         },
@@ -129963,7 +129999,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FDino%2520Crisis%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FDino%2520Crisis%2520(Japanese).cht",
-            "uid": "dino-crisis"
+            "uid": "dino-crisis",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793014
         },
@@ -129980,7 +130020,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FDynamite%2520Cop!%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FDynamite%2520Cop.cht",
-            "uid": "dynamite-cop"
+            "uid": "dynamite-cop",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793030
         },
@@ -129997,7 +130041,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FFatal%2520Fury%2520-%2520Mark%2520of%2520the%2520Wolves%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FFatal%2520Fury-Mark%2520Of%2520The%2520Wolves.cht",
-            "uid": "fatal-fury-mark-of-the-wolves"
+            "uid": "fatal-fury-mark-of-the-wolves",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793054
         },
@@ -130014,7 +130062,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FGigaWing%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FGiga%2520Wing.cht",
-            "uid": "gigawing"
+            "uid": "gigawing",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793143
         },
@@ -130031,7 +130083,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FGigaWing%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FGiga%2520Wing%25202%2520(Japanese).cht",
-            "uid": "gigawing-2"
+            "uid": "gigawing-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793226
         },
@@ -130048,7 +130104,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FGrandia%2520II%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FGrandia%2520II%2520(Japanese).cht",
-            "uid": "grandia-ii"
+            "uid": "grandia-ii",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793245
         },
@@ -130065,7 +130125,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FGunbird%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FGunbird%25202.cht",
-            "uid": "gunbird-2"
+            "uid": "gunbird-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793261
         },
@@ -130082,7 +130146,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FHouse%2520of%2520the%2520Dead%25202%252C%2520The%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FD2%2520(Japanese).cht",
-            "uid": "house-of-the-dead-2-the"
+            "uid": "house-of-the-dead-2-the",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793282
         },
@@ -130100,7 +130168,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FHydro%2520Thunder%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FHydro%2520Thunder%2520Version%25201.0.cht",
-            "uid": "hydro-thunder"
+            "uid": "hydro-thunder",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793299
         },
@@ -130116,7 +130188,11 @@
             "discs": [
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FIkaruga%2520(Japan).chd"
             ],
-            "uid": "ikaruga"
+            "uid": "ikaruga",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793321
         },
@@ -130133,7 +130209,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FJet%2520Grind%2520Radio%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FJet%2520Grind%2520Radio.cht",
-            "uid": "jet-grind-radio"
+            "uid": "jet-grind-radio",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793341
         },
@@ -130150,7 +130230,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FJoJo's%2520Bizarre%2520Adventure%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FJojo's%2520Bizarre%2520Adventure.cht",
-            "uid": "jojo-s-bizarre-adventure"
+            "uid": "jojo-s-bizarre-adventure",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793358
         },
@@ -130166,7 +130250,11 @@
             "discs": [
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FLegacy%2520of%2520Kain%2520-%2520Soul%2520Reaver%2520(USA).chd"
             ],
-            "uid": "legacy-of-kain-soul-reaver"
+            "uid": "legacy-of-kain-soul-reaver",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793378
         },
@@ -130183,7 +130271,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMars%2520Matrix%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMars%2520Matrix.cht",
-            "uid": "mars-matrix"
+            "uid": "mars-matrix",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793401
         },
@@ -130200,7 +130292,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMarvel%2520vs.%2520Capcom%2520-%2520Clash%2520of%2520Super%2520Heroes%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMarvel%2520Vs.%2520Capcom%2520(Japanese).cht",
-            "uid": "marvel-vs-capcom-clash-of-super-heroes"
+            "uid": "marvel-vs-capcom-clash-of-super-heroes",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793420
         },
@@ -130217,7 +130313,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMarvel%2520vs.%2520Capcom%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMarvel%2520Vs.%2520Capcom%25202.cht",
-            "uid": "marvel-vs-capcom-2"
+            "uid": "marvel-vs-capcom-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793438
         },
@@ -130234,7 +130334,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMDK2%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMDK%25202.cht",
-            "uid": "mdk2"
+            "uid": "mdk2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793539
         },
@@ -130251,7 +130355,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMSR%2520-%2520Metropolis%2520Street%2520Racer%2520(USA)%2520(Rev%2520A).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMetropolis%2520Street%2520Racer%2520(Pal).cht",
-            "uid": "msr-metropolis-street-racer"
+            "uid": "msr-metropolis-street-racer",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793557
         },
@@ -130269,7 +130377,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMortal%2520Kombat%2520Gold%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMortal%2520Kombat%2520Gold%2520Version%25201.0.cht",
-            "uid": "mortal-kombat-gold"
+            "uid": "mortal-kombat-gold",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793575
         },
@@ -130286,7 +130398,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FMr.%2520Driller%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FMr.%2520Driller.cht",
-            "uid": "mr-driller"
+            "uid": "mr-driller",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793593
         },
@@ -130303,7 +130419,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FNBA%25202K2%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FNBA%25202K2.cht",
-            "uid": "nba-2k2"
+            "uid": "nba-2k2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793616
         },
@@ -130320,7 +130440,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FNFL%25202K2%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FNFL%25202K2.cht",
-            "uid": "nfl-2k2"
+            "uid": "nfl-2k2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793633
         },
@@ -130337,7 +130461,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FOuttrigger%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FOuttrigger.cht",
-            "uid": "outtrigger"
+            "uid": "outtrigger",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793666
         },
@@ -130354,7 +130482,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FPhantasy%2520Star%2520Online%2520(USA)%2520(En%252CJa%252CFr%252CDe%252CEs)%2520(Rev%2520B).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FPhantasy%2520Star%2520Online%2520(European).cht",
-            "uid": "phantasy-star-online"
+            "uid": "phantasy-star-online",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793686
         },
@@ -130371,7 +130503,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FPhantasy%2520Star%2520Online%2520Ver.%25202%2520(USA)%2520(En%252CJa%252CFr%252CDe%252CEs).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FPhantasy%2520Star%2520Online%2520(European).cht",
-            "uid": "phantasy-star-online-ver-2"
+            "uid": "phantasy-star-online-ver-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793706
         },
@@ -130389,7 +130525,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FPower%2520Stone%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FPower%2520Stone%2520(Japanese).cht",
-            "uid": "power-stone"
+            "uid": "power-stone",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793728
         },
@@ -130406,7 +130546,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FPower%2520Stone%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FPower%2520Stone%25202%2520(Japanese).cht",
-            "uid": "power-stone-2"
+            "uid": "power-stone-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793749
         },
@@ -130423,7 +130567,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FProject%2520Justice%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FProject%2520Justice.cht",
-            "uid": "project-justice"
+            "uid": "project-justice",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793769
         },
@@ -130440,7 +130588,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FQuake%2520III%2520-%2520Arena%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FQuake%2520III%2520Arena.cht",
-            "uid": "quake-iii-arena"
+            "uid": "quake-iii-arena",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793844
         },
@@ -130457,7 +130609,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FRayman%25202%2520-%2520The%2520Great%2520Escape%2520(USA)%2520(En%252CFr%252CDe%252CEs%252CIt).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FRayman%25202.cht",
-            "uid": "rayman-2-the-great-escape"
+            "uid": "rayman-2-the-great-escape",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793864
         },
@@ -130474,7 +130630,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FReady%25202%2520Rumble%2520Boxing%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FReady%25202%2520Rumble%2520Boxing-Round%25202.cht",
-            "uid": "ready-2-rumble-boxing"
+            "uid": "ready-2-rumble-boxing",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793885
         },
@@ -130491,7 +130651,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FReady%25202%2520Rumble%2520Boxing%2520-%2520Round%25202%2520(USA)%2520(En%252CFr%252CDe).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FReady%25202%2520Rumble%2520Boxing-Round%25202.cht",
-            "uid": "ready-2-rumble-boxing-round-2"
+            "uid": "ready-2-rumble-boxing-round-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793916
         },
@@ -130509,7 +130673,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FResident%2520Evil%2520-%2520Code%2520-%2520Veronica%2520(USA)%2520(Disc%25202).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FResident%2520Evil-Code%2520Veronica.cht",
-            "uid": "resident-evil-code-veronica"
+            "uid": "resident-evil-code-veronica",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793938
         },
@@ -130527,7 +130695,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FResident%2520Evil%25202%2520(USA)%2520(Disc%25202).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FResident%2520Evil%25202.cht",
-            "uid": "resident-evil-2"
+            "uid": "resident-evil-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793961
         },
@@ -130544,7 +130716,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FResident%2520Evil%25203%2520-%2520Nemesis%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FResident%2520Evil%25203-Nemesis.cht",
-            "uid": "resident-evil-3-nemesis"
+            "uid": "resident-evil-3-nemesis",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793981
         },
@@ -130561,7 +130737,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSamba%2520de%2520Amigo%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSamba%2520De%2520Amigo.cht",
-            "uid": "samba-de-amigo"
+            "uid": "samba-de-amigo",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557793998
         },
@@ -130579,7 +130759,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSan%2520Francisco%2520Rush%25202049%2520(USA)%2520(En%252CFr%252CDe%252CEs%252CIt%252CNl).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSan%2520Francisco%2520Rush%25202049.cht",
-            "uid": "san-francisco-rush-2049"
+            "uid": "san-francisco-rush-2049",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794016
         },
@@ -130596,7 +130780,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSega%2520Rally%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSega%2520Rally%25202.cht",
-            "uid": "sega-rally-2"
+            "uid": "sega-rally-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794020
         },
@@ -130616,7 +130804,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FShenmue%2520(USA)%2520(Shenmue%2520Passport).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FShenmue.cht",
-            "uid": "shenmue"
+            "uid": "shenmue",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794046
         },
@@ -130636,7 +130828,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FShenmue%2520II%2520(Europe)%2520(En%252CFr%252CDe%252CEs)%2520(Disc%25204).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FShenmue%2520II%2520(European).cht",
-            "uid": "shenmue-ii"
+            "uid": "shenmue-ii",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794064
         },
@@ -130654,7 +130850,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSkies%2520of%2520Arcadia%2520(USA)%2520(Disc%25202).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSkies%2520Of%2520Arcadia.cht",
-            "uid": "skies-of-arcadia"
+            "uid": "skies-of-arcadia",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794085
         },
@@ -130673,7 +130873,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSonic%2520Adventure%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSonic%2520Adventure%2520(Japanese).cht",
-            "uid": "sonic-adventure"
+            "uid": "sonic-adventure",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794106
         },
@@ -130690,7 +130894,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSonic%2520Adventure%25202%2520(USA)%2520(En%252CJa%252CFr%252CDe%252CEs).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSonic%2520Adventure%2520(Japanese).cht",
-            "uid": "sonic-adventure-2"
+            "uid": "sonic-adventure-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794133
         },
@@ -130707,7 +130915,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSoulcalibur%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSoul%2520Calibur.cht",
-            "uid": "soulcalibur"
+            "uid": "soulcalibur",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794158
         },
@@ -130724,7 +130936,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSpace%2520Channel%25205%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSpace%2520Channel%25205.cht",
-            "uid": "space-channel-5"
+            "uid": "space-channel-5",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794176
         },
@@ -130741,7 +130957,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSpawn%2520-%2520In%2520the%2520Demon's%2520Hand%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSpawn.cht",
-            "uid": "spawn-in-the-demon-s-hand"
+            "uid": "spawn-in-the-demon-s-hand",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794200
         },
@@ -130758,7 +130978,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FStreet%2520Fighter%2520Alpha%25203%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FStreet%2520Fighter%2520Alpha%25203.cht",
-            "uid": "street-fighter-alpha-3"
+            "uid": "street-fighter-alpha-3",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794223
         },
@@ -130775,7 +130999,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FStreet%2520Fighter%2520III%2520-%25203rd%2520Strike%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FStreet%2520Fighter%2520III-3rd%2520Strike%2520(Japanese).cht",
-            "uid": "street-fighter-iii-3rd-strike"
+            "uid": "street-fighter-iii-3rd-strike",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794244
         },
@@ -130793,7 +131021,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSuper%2520Magnetic%2520Neo%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSuper%2520Magnetic%2520Neo.cht",
-            "uid": "super-magnetic-neo"
+            "uid": "super-magnetic-neo",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794263
         },
@@ -130810,7 +131042,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FSword%2520of%2520the%2520Berserk%2520-%2520Guts'%2520Rage%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FSword%2520Of%2520The%2520Berserk-Guts%2520Rage.cht",
-            "uid": "sword-of-the-berserk-guts-rage"
+            "uid": "sword-of-the-berserk-guts-rage",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794280
         },
@@ -130827,7 +131063,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FTech%2520Romancer%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FTech%2520Romancer.cht",
-            "uid": "tech-romancer"
+            "uid": "tech-romancer",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794300
         },
@@ -130844,7 +131084,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FTime%2520Stalkers%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FTime%2520Stalkers.cht",
-            "uid": "time-stalkers"
+            "uid": "time-stalkers",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794322
         },
@@ -130861,7 +131105,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FTokyo%2520Xtreme%2520Racer%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FTokyo%2520Xtreme%2520Racer%25202.cht",
-            "uid": "tokyo-xtreme-racer-2"
+            "uid": "tokyo-xtreme-racer-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794342
         },
@@ -130878,7 +131126,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FTony%2520Hawk's%2520Pro%2520Skater%25202%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FTony%2520Hawk's%2520Pro%2520Skater%25202.cht",
-            "uid": "tony-hawk-s-pro-skater-2"
+            "uid": "tony-hawk-s-pro-skater-2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794360
         },
@@ -130894,7 +131146,11 @@
             "discs": [
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FUnreal%2520Tournament%2520(USA)%2520(En%252CFr%252CDe%252CEs%252CIt).chd"
             ],
-            "uid": "unreal-tournament"
+            "uid": "unreal-tournament",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794383
         },
@@ -130911,7 +131167,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FVirtua%2520Fighter%25203tb%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FVirtua%2520Fighter%25203tb.cht",
-            "uid": "virtua-fighter-3tb"
+            "uid": "virtua-fighter-3tb",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794404
         },
@@ -130928,7 +131188,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FVirtua%2520Tennis%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FVirtua%2520Tennis.cht",
-            "uid": "virtua-tennis"
+            "uid": "virtua-tennis",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794422
         },
@@ -130945,7 +131209,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FTennis%25202K2%2520(USA)%2520(En%252CJa%252CFr%252CDe%252CEs)%2520(Rev%2520A).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FTennis%25202K2.cht",
-            "uid": "tennis-2k2"
+            "uid": "tennis-2k2",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794440
         },
@@ -130962,7 +131230,11 @@
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FWetrix%252B%2520(USA).chd"
             ],
             "cheat": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwebrcade-assets%2Flibdb%2Fmaster%2Fcht%2FSega%2520-%2520Dreamcast%2FWetrix%252B.cht",
-            "uid": "wetrix"
+            "uid": "wetrix",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794458
         },
@@ -130978,7 +131250,11 @@
             "discs": [
               "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fef_dreamcast_chd_collection_202406%2FWorms%2520Armageddon%2520(USA)%2520(En%252CFr%252CDe%252CNl%252CSv%252CNo%252CDa).chd"
             ],
-            "uid": "worms-armageddon"
+            "uid": "worms-armageddon",
+            "flycast_bios": [
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+              "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+            ]
           },
           "added": 1793557794479
         }
@@ -132167,6 +132443,9 @@
       "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fmame-merged%2Fapple2gs.zip",
       "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fmame-merged%2Fa2cffa2.zip"
     ],
-    "flycast_bios": "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fmame-merged%2Fdc.zip"
+    "flycast_bios": [
+      "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_boot.bin",
+      "https://webrcade-proxy.breeves3622.workers.dev/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fdc_boot%2Fdc_flash.bin"
+    ]
   }
 }
